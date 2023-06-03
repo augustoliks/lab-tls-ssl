@@ -1,0 +1,6 @@
+python-tls-socket/_certs/*key
+python-tls-socket/_certs/*pem
+python-tls-socket/_certs/*csr
+python-tls-socket/_certs/*srl
+python-tls-socket/_certs/*ext
+venv
